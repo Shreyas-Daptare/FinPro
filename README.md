@@ -2,8 +2,6 @@
 
 A Stock Market Screener and Analysis mobile application that helps traders and investors discover trading opportunities, track real-time stock data, and get AI-powered predictions — all from a clean, intuitive Android interface.
 
-> Built as part of a Mini Project for the Mobile Application Development course at K. K. Wagh Institute of Engineering Education and Research, Nashik.
-
 ---
 
 ## 📖 Overview
