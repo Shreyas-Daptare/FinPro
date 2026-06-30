@@ -29,11 +29,15 @@ Users can search for stocks, browse predefined screener categories (Momentum, Hi
 
 | Home / Discover Stocks | Stock Detail Dashboard |
 |:---:|:---:|
-| _add screenshot_ | _add screenshot_ |
+| <img width="377" height="792" alt="image" src="https://github.com/user-attachments/assets/f11ba8e3-38f8-4f6b-a68b-5328750954e5" />
+ | <img width="376" height="791" alt="image" src="https://github.com/user-attachments/assets/d921f18d-0171-421d-9fa5-e691ebbaefc1" />
+ |
 
 | AI Overview & Prediction | Momentum Screener |
 |:---:|:---:|
-| _add screenshot_ | _add screenshot_ |
+| <img width="404" height="848" alt="image" src="https://github.com/user-attachments/assets/cacd0b8f-413f-4d4b-8896-46bce786d863" />
+ | <img width="374" height="846" alt="image" src="https://github.com/user-attachments/assets/50e8ca75-95f8-47e9-82fc-697dfaf71274" />
+ |
 
 ---
 
@@ -158,16 +162,6 @@ The backend will be available at `http://127.0.0.1:8000`.
 - Currently limited to a smaller dataset (e.g., NIFTY 50)
 - No advanced technical indicators yet
 - Requires a continuous internet connection
-
----
-
-## 👤 Author
-
-**Shreyas Daptare**
-Department of Artificial Intelligence & Data Science
-K. K. Wagh Institute of Engineering Education and Research, Nashik
-
-**Guided by:** Prof. Priti G. Jadhav
 
 ---
 
